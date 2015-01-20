@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/candace/workspace/UndertowQ2/mysql-connector-java-5.1.33-bin.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/hbase_jar/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/hbase_jar/commons-httpclient-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/hbase_jar/httpclient-cache-4.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/hbase_jar/httpclient-4.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/hbase_jar/EmrMetrics-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/hbase_jar/guava-13.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/hbase_jar/hadoop-core.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/hbase_jar/hadoop-core-1.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/hbase_jar/zookeeper-3.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/hbase_jar/protobuf-java-2.4.0a.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/hbase_jar/slf4j-api-1.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/hbase_jar/slf4j-log4j12-1.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/hbase_jar/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/hbase_jar/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/hbase_jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/hbase_jar/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/hbase_jar/gson-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/aws-java-sdk/1.8.10.2/third-party/aspectj-1.6/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/aws-java-sdk/1.8.10.2/third-party/aspectj-1.6/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/aws-java-sdk/1.8.10.2/third-party/freemarker-2.3.18/freemarker-2.3.18.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/aws-java-sdk/1.8.10.2/third-party/httpcomponents-client-4.2.3/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/aws-java-sdk/1.8.10.2/third-party/httpcomponents-client-4.2.3/httpcore-4.2.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/aws-java-sdk/1.8.10.2/third-party/jackson-annotations-2.1/jackson-annotations-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/aws-java-sdk/1.8.10.2/third-party/jackson-core-2.1/jackson-core-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/aws-java-sdk/1.8.10.2/third-party/jackson-databind-2.1/jackson-databind-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/aws-java-sdk/1.8.10.2/third-party/java-mail-1.4.3/mail-1.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/aws-java-sdk/1.8.10.2/third-party/joda-time-2.2/joda-time-2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/workspace/Undertow/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/Cloud/jar/hbase-0.94.14.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/hbase_jar/hbase-0.92.0.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/hbase_jar/jackson-mapper-asl-1.9.9.jar"/>
+	<classpathentry kind="lib" path="/Users/candace/Desktop/hbase_jar/jackson-core-asl-1.9.9.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
